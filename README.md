@@ -9,7 +9,6 @@ Feel free to help with the development of this extension! If you have any change
 
 Built with care in New Orleans
 
-[Source files licensed under MIT](http://pb.mit-license.org/).
-[All content copyright (c) 2014 Patrick Burtchaell](http://pburtchaell.com/legal/)
+Copyright 2014 [Patrick Burtchaell](http://pburtchaell.com/legal/). Licensed MIT.
 
 
