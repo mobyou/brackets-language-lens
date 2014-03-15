@@ -2,7 +2,7 @@
   "name": "lens",
   "title": "Lens Syntax Highlighter",
   "description": "Add syntax highlighting support for the lens filetype (.lens).",
-  "homepage": "https://github.com/pburtchaell/lens",
+  "homepage": "https://github.com/pburtchaell/brackets-language-lens",
   "version": "1.0.1",
   "author": "Patrick Burtchaell (http://twitter.com/pburtchaell)",
   "license": "MIT",
