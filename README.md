@@ -1,9 +1,9 @@
 # brackets-language-lense
-> Providessyntax highlighting for [lens templates](http://help.koken.me/customer/portal/articles/828688-lens-templates) in Brackets
+> Syntax highlighting for [lens templates](http://help.koken.me/customer/portal/articles/828688-lens-templates) in Brackets
 
 ## Getting Started
 
-You can install this extension directly from within Brackets or [download it from the Brackets Extension Directory](https://brackets-registry.aboutweb.com/) and install it manually.
+Install this extension directly from within Brackets or [download it from the Brackets Extension Directory](https://brackets-registry.aboutweb.com/) and install it manually.
 
 ## Contributing
 
