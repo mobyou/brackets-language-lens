@@ -6,7 +6,7 @@ define(function (require, exports, module) {
   
   var definition = {
     name: 'Lens',
-    mode: ['htmlmixed', 'text/x-lens-html'],
+    mode: ["htmlmixed", "text/x-brackets-html"],
     fileExtensions: ['lens'],
     lineComment: ['#']
   };
